@@ -1,3 +1,7 @@
 event monkey can unstandant git operations
 add new line
+<<<<<<< HEAD
 commit add index status
+=======
+pull get remote database's content
+>>>>>>> pull
