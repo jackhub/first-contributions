@@ -5,3 +5,6 @@ commit add index status
 =======
 pull get remote database's content
 >>>>>>> pull
+
+
+add file 4
